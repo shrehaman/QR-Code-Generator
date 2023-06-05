@@ -1,5 +1,5 @@
 
-# Online Utility Tools
+# QR Code Generator
 
 
 
