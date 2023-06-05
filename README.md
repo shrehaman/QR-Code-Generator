@@ -22,7 +22,7 @@ Key Features of the QR Code Generator:
 The QR Code Generator project aims to simplify the process of generating QR codes by providing a user-friendly interface and efficient functionality. It allows users to quickly create QR codes for various purposes and customize them to suit their preferences.
 
 
-
+Project - 16
 
 ## Table of Contents
 - [Uses](#usage)
